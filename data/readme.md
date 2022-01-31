@@ -1,0 +1,1 @@
+Delete the example users in this folder
