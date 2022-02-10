@@ -6,6 +6,8 @@
 % 2. Paste the users to fix in the folder ```data```, and run this script
 % with:
 % >> fixing
+% 2.1 Copy and paste the photo of each user to the correspoding newData
+% folder.
 % 3. Export the formated users from newData.
 
 %{
